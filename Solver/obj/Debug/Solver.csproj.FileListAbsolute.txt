@@ -1,5 +1,0 @@
-D:\TestWork\Solver\bin\Debug\Solver.dll
-D:\TestWork\Solver\bin\Debug\Solver.pdb
-D:\TestWork\Solver\obj\Debug\Solver.csprojResolveAssemblyReference.cache
-D:\TestWork\Solver\obj\Debug\Solver.dll
-D:\TestWork\Solver\obj\Debug\Solver.pdb

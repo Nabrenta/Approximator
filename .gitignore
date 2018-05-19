@@ -2,6 +2,6 @@
 *.config
 *.resx
 *.csproj
-/bin
-/debug
-/Properties
+bin/
+debug/
+Properties/
