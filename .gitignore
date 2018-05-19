@@ -1,0 +1,7 @@
+*.sln
+*.config
+*.resx
+*.csproj
+/bin
+/debug
+/Properties

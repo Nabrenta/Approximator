@@ -1,0 +1,11 @@
+D:\TestWork\TestWork\bin\Debug\TestWork.exe.config
+D:\TestWork\TestWork\bin\Debug\TestWork.exe
+D:\TestWork\TestWork\bin\Debug\TestWork.pdb
+D:\TestWork\TestWork\bin\Debug\Solver.dll
+D:\TestWork\TestWork\bin\Debug\Solver.pdb
+D:\TestWork\TestWork\obj\Debug\TestWork.csprojResolveAssemblyReference.cache
+D:\TestWork\TestWork\obj\Debug\TestWork.MainForm.resources
+D:\TestWork\TestWork\obj\Debug\TestWork.Properties.Resources.resources
+D:\TestWork\TestWork\obj\Debug\TestWork.csproj.GenerateResource.Cache
+D:\TestWork\TestWork\obj\Debug\TestWork.exe
+D:\TestWork\TestWork\obj\Debug\TestWork.pdb
