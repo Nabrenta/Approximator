@@ -120,6 +120,9 @@ namespace TestWork
         /// </summary>
         private void Rewrite ()
         {
+            //Set waiting cursor for the processing time
+            Cursor.Current = Cursors.WaitCursor;
+
             //Rewrite line of Lagrange polinom
             LineCollector(Solver.Solver.Lagrange, SourseDots, FIRST_DOT_X - 1, 0.001, FIRST_DOT_X+NUMBBER_OF_SOURSE_DOTS);
 
@@ -128,6 +131,9 @@ namespace TestWork
 
             //Rewrite start dots;
             Filler(SourseDots, SOURSE_DOTS_SERIES_NAME, System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Point);
+
+            //Set usual cursor after processing
+            Cursor.Current = Cursors.Arrow;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
